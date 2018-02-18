@@ -47,3 +47,38 @@ Hour_H: 1; Hour_L: 5; Min_H: 2; Min_L: 2; Sec_H: 0; Sec_L: 8.
 
 
 顺便：记得用1k的排阻拉高P0的电位。
+
+
+
+
+
+
+
+# Some images 一些图片
+
+## Circuit 电路图
+
+![MCU module 单片机模块](./circuit_0.png)
+MCU module 单片机模块
+
+![74LS138 decoder module 74LS138解码器模块](./circuit_1.jpg)
+74LS138 decoder module 74LS138解码器模块
+
+
+## Photoes 照片
+![Single tube testing 单管测试](./1771222982.jpg)
+Single tube testing 单管测试
+
+![All six decoders done 所有六只解码器完成](./434952867.jpg)
+All six decoders done 所有六只解码器完成
+
+![Working0](./746991132.jpg)
+
+![Working1](./2055139261.jpg)
+
+![Working2](./981500103.jpg)
+The look while 4 tubes working 四管工作效果
+
+
+
+
