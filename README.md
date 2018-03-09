@@ -66,19 +66,6 @@ MCU module 单片机模块
 
 
 ## Photoes 照片
-![Single tube testing 单管测试](./1771222982.jpg)
-Single tube testing 单管测试
+![Outlook 外观](./IMG_20180227_193111_HHT.jpg)
 
-![All six decoders done 所有六只解码器完成](./434952867.jpg)
-All six decoders done 所有六只解码器完成
-
-![Working0](./746991132.jpg)
-
-![Working1](./2055139261.jpg)
-
-![Working2](./981500103.jpg)
-The look while 4 tubes working 四管工作效果
-
-
-
-
+![Outlook 外观](./IMG_20180227_193210_HHT.jpg)
