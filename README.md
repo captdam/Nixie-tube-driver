@@ -58,7 +58,7 @@ Hour_H: 1; Hour_L: 5; Min_H: 2; Min_L: 2; Sec_H: 0; Sec_L: 8.
 
 ## Circuit 电路图
 
-![MCU module 单片机模块](./circuit_0.png)
+![MCU module 单片机模块](./circuit0.png)
 MCU module 单片机模块
 
 ![74LS138 decoder module 74LS138解码器模块](./circuit_1.jpg)
