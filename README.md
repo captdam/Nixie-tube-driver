@@ -1,3 +1,7 @@
+# Source code
+
+https://github.com/captdam/Nixie-tube-driver/blob/master/main.asm
+
 # Nixie-tube-driver
 
 Nixie tube driver code for 51 MCU
